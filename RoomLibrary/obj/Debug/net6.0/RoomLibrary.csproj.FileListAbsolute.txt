@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\bin\Debug\net6.0\RoomLibrary.deps.json
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\bin\Debug\net6.0\RoomLibrary.dll
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\bin\Debug\net6.0\RoomLibrary.pdb
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\obj\Debug\net6.0\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\obj\Debug\net6.0\RoomLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\obj\Debug\net6.0\RoomLibrary.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\obj\Debug\net6.0\RoomLibrary.AssemblyInfo.cs
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\obj\Debug\net6.0\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\obj\Debug\net6.0\RoomLibrary.dll
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\obj\Debug\net6.0\refint\RoomLibrary.dll
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\obj\Debug\net6.0\RoomLibrary.pdb
+C:\Users\student\Desktop\Игнатенко\RoomLibrary\RoomLibrary\obj\Debug\net6.0\ref\RoomLibrary.dll
